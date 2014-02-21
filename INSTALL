@@ -1,0 +1,9 @@
+Building FishCoin
+
+See doc/readme-qt.rst for instructions on building FishCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of FishCoin.
+
+See doc/build-*.txt for instructions on building FishCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of FishCoin.
